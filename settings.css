@@ -14,10 +14,10 @@
 }
 
 header{
-	height: 25%;
+	height: 30%;
     display: list-item;
 	margin:0 auto;
-	padding: 80px 0 0;
+	padding: 11px 0 0 0;
 	background-color: #d88820;
 }
 
@@ -108,7 +108,7 @@ header{
 }
 		
 footer{
-	bottom: 0;
+	bottom: auto;
 	width: 100%;
 	margin: 0;
 	padding: 10px 0;
@@ -117,6 +117,7 @@ footer{
 	color: #000;
 	background: #ffd700;
 	font-weight: 300;
+	height:auto;
 }
 
 /*for tablets*/
